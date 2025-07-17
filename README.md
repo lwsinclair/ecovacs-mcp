@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ecovacs-ai-ecovacs-mcp-badge.png)](https://mseep.ai/app/ecovacs-ai-ecovacs-mcp)
+
 # 扫地机器人控制MCP Server
 
 [English](README_EN.md) | 中文
